@@ -1,0 +1,6 @@
+# ignorar arquivos do sonar scanner
+.scannerwork/
+.scannerwork/report-task.txt
+
+# ignorar cobertura de testes
+coverage.out
